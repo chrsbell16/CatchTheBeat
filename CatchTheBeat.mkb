@@ -1,0 +1,18 @@
+#!/usr/bin/env mkb
+
+subprojects
+{
+    iwutil
+	iw2d
+}
+
+files
+{
+    (source)
+    CatchTheBeat.cpp
+	ctbBeatSequence.cpp
+}
+
+deployment
+{
+}
